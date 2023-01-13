@@ -14,7 +14,6 @@ public class Todolist {
     }
 
     public Todolist(){
-
     }
 
     private String todo;
